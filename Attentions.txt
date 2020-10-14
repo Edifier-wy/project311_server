@@ -1,0 +1,2 @@
+数据库密码：D1vGQJArRpO1IOer
+修改settings文件里面ALLOWED_HOSTS
